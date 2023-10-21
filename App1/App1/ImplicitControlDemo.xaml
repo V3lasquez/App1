@@ -12,7 +12,7 @@
                 </ResourceDictionary>
             </StackLayout.Resources>
             <Entry Text="These entries" />
-        </StackLayout>
 
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>
